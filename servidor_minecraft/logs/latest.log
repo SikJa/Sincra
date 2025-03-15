@@ -80,3 +80,13 @@
 [22:06:25] [Server thread/INFO]: elen[/127.116.39.52:38033] logged in with entity id 6004 at (-24.60624005956164, 68.0, -21.27039962493207)
 [22:06:25] [Server thread/INFO]: elen joined the game
 [22:06:48] [Server thread/INFO]: elen was blown up by Creeper
+[22:15:24] [Server thread/INFO]: Locating element minecraft:village_plains took 1042 ms
+[22:15:26] [Server thread/INFO]: [SikJa: Teleported SikJa to -943.500000, 71.000000, -1023.500000]
+[22:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[22:16:21] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
+[22:18:37] [Server thread/INFO]: SikJa has made the advancement [Monster Hunter]
+[22:18:42] [Server thread/INFO]: elen has made the advancement [Sweet Dreams]
+[22:19:17] [Server thread/INFO]: SikJa hit the ground too hard
+[22:19:25] [Server thread/INFO]: [SikJa: Teleported SikJa to elen]
+[22:20:05] [Server thread/INFO]: elen was slain by SikJa
+[22:20:12] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]

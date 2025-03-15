@@ -1,7 +1,7 @@
 ---- Minecraft Crash Report ----
-// Don't be sad. I'll do better next time, I promise!
+// I bet Cylons wouldn't have this problem.
 
-Time: 2025-03-15 20:49:07
+Time: 2025-03-15 21:13:58
 Description: Exception in server tick loop
 
 java.lang.IllegalStateException: Failed to initialize server
@@ -20,7 +20,7 @@ Details:
 	Operating System: Linux (amd64) version 6.8.0-1021-azure
 	Java Version: 21.0.6, Ubuntu
 	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
-	Memory: 1971092096 bytes (1879 MiB) / 2147483648 bytes (2048 MiB) up to 8589934592 bytes (8192 MiB)
+	Memory: 1807670640 bytes (1723 MiB) / 2147483648 bytes (2048 MiB) up to 8589934592 bytes (8192 MiB)
 	CPUs: 2
 	Processor Vendor: AuthenticAMD
 	Processor Name: AMD EPYC 7763 64-Core Processor
@@ -36,20 +36,20 @@ Details:
 	Graphics card #0 deviceId: unknown
 	Graphics card #0 versionInfo: unknown
 	Virtual memory max (MiB): 3969.35
-	Virtual memory used (MiB): 5037.61
+	Virtual memory used (MiB): 5087.59
 	Swap memory total (MiB): 0.00
 	Swap memory used (MiB): 0.00
 	Space in storage for jna.tmpdir (MiB): <path not set>
 	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
 	Space in storage for io.netty.native.workdir (MiB): <path not set>
-	Space in storage for java.io.tmpdir (MiB): available: 24356.50, total: 45046.83
-	Space in storage for workdir (MiB): available: 18676.26, total: 32077.81
+	Space in storage for java.io.tmpdir (MiB): available: 24356.48, total: 45046.83
+	Space in storage for workdir (MiB): available: 18657.95, total: 32077.81
 	JVM Flags: 2 total; -Xms2G -Xmx8G
 	Server Running: true
 	Active Data Packs: vanilla
 	Available Data Packs: bundle, trade_rebalance, vanilla
 	Enabled Feature Flags: minecraft:vanilla
 	World Generation: Stable
-	World Seed: 3876797832215602482
+	World Seed: -4163903099453825291
 	Is Modded: Probably not. Server jar signature and brand is untouched
 	Type: Dedicated Server (map_server.txt)

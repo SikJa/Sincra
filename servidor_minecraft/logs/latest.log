@@ -60,3 +60,7 @@
 [21:41:35] [Server thread/INFO]: elen joined the game
 [21:42:30] [Server thread/INFO]: SikJa lost connection: Disconnected
 [21:42:30] [Server thread/INFO]: SikJa left the game
+[21:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=65, z=-18} jd{x=13, y=65, z=-16}
+[21:43:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=64, z=-17} jd{x=13, y=65, z=-16}
+[21:48:26] [Server thread/INFO]: SikJa (/127.117.198.176:44697) lost connection: Disconnected
+[21:51:38] [Server thread/INFO]: elen was slain by Zombie

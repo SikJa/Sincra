@@ -91,3 +91,16 @@
 [22:20:05] [Server thread/INFO]: elen was slain by SikJa
 [22:20:12] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
 [22:40:10] [Server thread/INFO]: elen has made the advancement [Stone Age]
+[22:43:13] [Server thread/INFO]: elen has made the advancement [Acquire Hardware]
+[22:43:36] [Server thread/INFO]: SikJa has made the advancement [Acquire Hardware]
+[22:44:44] [Server thread/INFO]: SikJa has made the advancement [Suit Up]
+[22:44:48] [Server thread/INFO]: elen has made the advancement [Suit Up]
+[22:52:31] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
+[22:53:11] [Server thread/INFO]: Locating element minecraft:village_desert took 655 ms
+[22:53:19] [Server thread/INFO]: [SikJa: Teleported SikJa to -2047.500000, 64.000000, -3039.500000]
+[22:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[22:54:12] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
+[22:55:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2089, y=64, z=-3059} jd{x=-2089, y=62, z=-3060}
+[22:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2091, y=64, z=-3062} jd{x=-2092, y=62, z=-3063}
+[22:57:44] [Server thread/INFO]: SikJa was slain by Iron Golem
+[22:57:54] [Server thread/INFO]: [SikJa: Teleported SikJa to elen]

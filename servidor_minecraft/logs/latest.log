@@ -64,3 +64,19 @@
 [21:43:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=64, z=-17} jd{x=13, y=65, z=-16}
 [21:48:26] [Server thread/INFO]: SikJa (/127.117.198.176:44697) lost connection: Disconnected
 [21:51:38] [Server thread/INFO]: elen was slain by Zombie
+[21:56:15] [Server thread/INFO]: SikJa[/127.117.198.176:36665] logged in with entity id 3118 at (-7.086902959896893, 68.0, 2.1441268293608893)
+[21:56:15] [Server thread/INFO]: SikJa joined the game
+[21:58:58] [Server thread/INFO]: SikJa has made the advancement [Stone Age]
+[21:59:43] [Server thread/INFO]: SikJa has made the advancement [Getting an Upgrade]
+[21:59:51] [Server thread/INFO]: elen has made the advancement [Getting an Upgrade]
+[22:00:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=13, y=65, z=-16}
+[22:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=14, y=65, z=-16}
+[22:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=14, y=65, z=-16}
+[22:00:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=14, y=65, z=-16}
+[22:02:42] [Server thread/INFO]: elen was slain by SikJa
+[22:05:21] [Server thread/INFO]: SikJa has made the advancement [Sweet Dreams]
+[22:05:45] [Server thread/INFO]: elen lost connection: Disconnected
+[22:05:45] [Server thread/INFO]: elen left the game
+[22:06:25] [Server thread/INFO]: elen[/127.116.39.52:38033] logged in with entity id 6004 at (-24.60624005956164, 68.0, -21.27039962493207)
+[22:06:25] [Server thread/INFO]: elen joined the game
+[22:06:48] [Server thread/INFO]: elen was blown up by Creeper

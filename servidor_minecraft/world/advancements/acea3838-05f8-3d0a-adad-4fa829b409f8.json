@@ -437,7 +437,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-03-15 22:33:12 +0000"
+      "cooked_porkchop": "2025-03-15 22:33:12 +0000",
+      "bread": "2025-03-15 23:15:35 +0000"
     },
     "done": false
   },
@@ -822,6 +823,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-15 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-15 23:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-03-15 23:15:45 +0000"
     },
     "done": true
   },

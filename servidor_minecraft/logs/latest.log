@@ -1,115 +1,22 @@
-[21:32:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:32:53] [ServerMain/INFO]: Loaded 1290 recipes
-[21:32:53] [ServerMain/INFO]: Loaded 1399 advancements
-[21:32:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:32:54] [Server thread/INFO]: Loading properties
-[21:32:54] [Server thread/INFO]: Default game type: SURVIVAL
-[21:32:54] [Server thread/INFO]: Generating keypair
-[21:32:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:32:54] [Server thread/INFO]: Using epoll channel type
-[21:32:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:32:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:32:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:32:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:32:54] [Server thread/INFO]: Preparing level "world"
-[21:33:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:33:00] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:33:01] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:33:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:33:02] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[21:33:03] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[21:33:03] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[21:33:04] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[21:33:04] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[21:33:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[21:33:05] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[21:33:05] [Server thread/INFO]: Time elapsed: 5718 ms
-[21:33:05] [Server thread/INFO]: Done (11.370s)! For help, type "help"
-[21:34:42] [Server thread/INFO]: SikJa[/127.117.198.176:44207] logged in with entity id 15 at (-8.5, 67.0, 3.5)
-[21:34:42] [Server thread/INFO]: SikJa joined the game
-[21:34:56] [Server thread/INFO]: Made SikJa a server operator
-[21:35:07] [Server thread/INFO]: [SikJa: The difficulty has been set to Normal]
-[21:39:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@4cc99127[id=acea3838-05f8-3d0a-adad-4fa829b409f8,name=elen,properties={}] lost connection: Disconnected
-[21:39:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@57739189[id=acea3838-05f8-3d0a-adad-4fa829b409f8,name=elen,properties={}] lost connection: Disconnected
-[21:40:09] [Server thread/INFO]: elen[/127.116.39.52:38245] logged in with entity id 1037 at (-8.5, 70.0, -7.5)
-[21:40:09] [Server thread/INFO]: elen joined the game
-[21:40:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-6, y=69, z=-6}
-[21:40:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-6}
-[21:40:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-6}
-[21:40:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-6}
-[21:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-6}
-[21:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-5}
-[21:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-3}
-[21:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-7, y=69, z=-3}
-[21:40:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-8, y=69, z=-3}
-[21:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-8, y=69, z=-3}
-[21:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-8, y=69, z=-3}
-[21:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-8, y=69, z=-3}
-[21:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-9, y=68, z=-1}
-[21:40:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-9, y=68, z=-1}
-[21:40:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-9, y=68, z=-1}
-[21:40:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-13, y=68, z=-1}
-[21:40:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-13, y=68, z=-1}
-[21:40:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-13, y=68, z=-1}
-[21:41:10] [Server thread/INFO]: elen lost connection: Timed out
-[21:41:10] [Server thread/INFO]: elen left the game
-[21:41:10] [Server thread/WARN]: handleDisconnection() called twice
-[21:41:35] [Server thread/INFO]: elen[/127.116.39.52:44713] logged in with entity id 1538 at (-16.352359023036968, 64.0, 24.662288551039616)
-[21:41:35] [Server thread/INFO]: elen joined the game
-[21:42:30] [Server thread/INFO]: SikJa lost connection: Disconnected
-[21:42:30] [Server thread/INFO]: SikJa left the game
-[21:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=65, z=-18} jd{x=13, y=65, z=-16}
-[21:43:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19, y=64, z=-17} jd{x=13, y=65, z=-16}
-[21:48:26] [Server thread/INFO]: SikJa (/127.117.198.176:44697) lost connection: Disconnected
-[21:51:38] [Server thread/INFO]: elen was slain by Zombie
-[21:56:15] [Server thread/INFO]: SikJa[/127.117.198.176:36665] logged in with entity id 3118 at (-7.086902959896893, 68.0, 2.1441268293608893)
-[21:56:15] [Server thread/INFO]: SikJa joined the game
-[21:58:58] [Server thread/INFO]: SikJa has made the advancement [Stone Age]
-[21:59:43] [Server thread/INFO]: SikJa has made the advancement [Getting an Upgrade]
-[21:59:51] [Server thread/INFO]: elen has made the advancement [Getting an Upgrade]
-[22:00:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=13, y=65, z=-16}
-[22:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=14, y=65, z=-16}
-[22:00:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=14, y=65, z=-16}
-[22:00:31] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=13, y=65, z=-17} jd{x=14, y=65, z=-16}
-[22:02:42] [Server thread/INFO]: elen was slain by SikJa
-[22:05:21] [Server thread/INFO]: SikJa has made the advancement [Sweet Dreams]
-[22:05:45] [Server thread/INFO]: elen lost connection: Disconnected
-[22:05:45] [Server thread/INFO]: elen left the game
-[22:06:25] [Server thread/INFO]: elen[/127.116.39.52:38033] logged in with entity id 6004 at (-24.60624005956164, 68.0, -21.27039962493207)
-[22:06:25] [Server thread/INFO]: elen joined the game
-[22:06:48] [Server thread/INFO]: elen was blown up by Creeper
-[22:15:24] [Server thread/INFO]: Locating element minecraft:village_plains took 1042 ms
-[22:15:26] [Server thread/INFO]: [SikJa: Teleported SikJa to -943.500000, 71.000000, -1023.500000]
-[22:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[22:16:21] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[22:18:37] [Server thread/INFO]: SikJa has made the advancement [Monster Hunter]
-[22:18:42] [Server thread/INFO]: elen has made the advancement [Sweet Dreams]
-[22:19:17] [Server thread/INFO]: SikJa hit the ground too hard
-[22:19:25] [Server thread/INFO]: [SikJa: Teleported SikJa to elen]
-[22:20:05] [Server thread/INFO]: elen was slain by SikJa
-[22:20:12] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[22:40:10] [Server thread/INFO]: elen has made the advancement [Stone Age]
-[22:43:13] [Server thread/INFO]: elen has made the advancement [Acquire Hardware]
-[22:43:36] [Server thread/INFO]: SikJa has made the advancement [Acquire Hardware]
-[22:44:44] [Server thread/INFO]: SikJa has made the advancement [Suit Up]
-[22:44:48] [Server thread/INFO]: elen has made the advancement [Suit Up]
-[22:52:31] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[22:53:11] [Server thread/INFO]: Locating element minecraft:village_desert took 655 ms
-[22:53:19] [Server thread/INFO]: [SikJa: Teleported SikJa to -2047.500000, 64.000000, -3039.500000]
-[22:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
-[22:54:12] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[22:55:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2089, y=64, z=-3059} jd{x=-2089, y=62, z=-3060}
-[22:55:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-2091, y=64, z=-3062} jd{x=-2092, y=62, z=-3063}
-[22:57:44] [Server thread/INFO]: SikJa was slain by Iron Golem
-[22:57:54] [Server thread/INFO]: [SikJa: Teleported SikJa to elen]
-[23:03:39] [Server thread/INFO]: elen was slain by Zombie
-[23:03:46] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[23:04:59] [Server thread/INFO]: elen was slain by Zombie
-[23:05:07] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[23:05:22] [Server thread/INFO]: [SikJa: Teleported elen to SikJa]
-[23:07:32] [Server thread/INFO]: elen lost connection: Disconnected
-[23:07:32] [Server thread/INFO]: elen left the game
-[23:07:45] [Server thread/INFO]: elen[/127.116.39.52:33043] logged in with entity id 22918 at (-2334.052504430278, 67.0, -2989.7006795510724)
-[23:07:45] [Server thread/INFO]: elen joined the game
+[17:34:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:34:54] [ServerMain/INFO]: Loaded 1290 recipes
+[17:34:54] [ServerMain/INFO]: Loaded 1399 advancements
+[17:34:55] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:34:55] [Server thread/INFO]: Loading properties
+[17:34:55] [Server thread/INFO]: Default game type: SURVIVAL
+[17:34:55] [Server thread/INFO]: Generating keypair
+[17:34:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:34:55] [Server thread/INFO]: Using epoll channel type
+[17:34:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:34:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:34:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:34:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:34:55] [Server thread/INFO]: Preparing level "world"
+[17:34:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:34:58] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:34:58] [Server thread/INFO]: Time elapsed: 412 ms
+[17:34:58] [Server thread/INFO]: Done (3.083s)! For help, type "help"
+[17:39:46] [Server thread/INFO]: SikJa[/127.117.198.176:37885] logged in with entity id 8 at (-2332.5531786525567, 66.0, -2969.4407973375655)
+[17:39:46] [Server thread/INFO]: SikJa joined the game
+[17:45:58] [Server thread/INFO]: elen[/127.68.45.191:50787] logged in with entity id 1269 at (-2358.572359228187, 66.0, -2993.840174144254)
+[17:45:58] [Server thread/INFO]: elen joined the game

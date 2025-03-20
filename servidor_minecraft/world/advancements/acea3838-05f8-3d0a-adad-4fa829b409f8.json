@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-03-20 17:57:45 +0000",
       "minecraft:desert": "2025-03-15 22:54:13 +0000",
       "minecraft:forest": "2025-03-15 21:40:41 +0000",
       "minecraft:river": "2025-03-15 22:11:28 +0000",
@@ -837,6 +838,36 @@
       "has_hay_block": "2025-03-15 23:15:45 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-20 18:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-20 18:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-20 18:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-20 18:00:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2025-03-20 18:03:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
